@@ -65,4 +65,6 @@ int main()
 
     getchar();
     return 0;
+    
+    //NELIGOL ESTEVE AQUI!
 }
