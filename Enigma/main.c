@@ -6,6 +6,7 @@
 #define DESLOC2 7
 #define DESLOC3 18
 
+//NELIGOL ESTEVE AQUI!
 
     /*65 -> A,
      90 -> Z;
