@@ -7,6 +7,7 @@
 #define DESLOC3 18
 
 //NELIGOL ESTEVE AQUI!
+//NELIGOL ESTEVE AQUI DENOVO!
 
     /*65 -> A,
      90 -> Z;
